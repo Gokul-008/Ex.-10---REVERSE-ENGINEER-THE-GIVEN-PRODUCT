@@ -37,8 +37,8 @@
 
 ![image](https://github.com/Yamunaasri/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/115707860/08361b71-f4df-4403-b7c0-b14c42821b47)
 
-### Name: T S Yamunaasri
-### Register Number: 212222240117
+### Name: GOKUL.M
+### Register Number: 21222230037
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
